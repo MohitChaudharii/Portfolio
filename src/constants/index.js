@@ -43,19 +43,19 @@ export const PROJECTS = [
     technologies: ["HTML", "CSS", "JavaScript"],
   },
   {
-    title: "Hospital Management System",
-    image: project3,
-    description:
-      "A desktop-based application to manage patient records, doctor details, appointments, and billing efficiently.",
-    technologies: ["C++", "MySQL"],
-  },
-  {
     title: "Auction Web Application",
-    image: project4,
+    image: project3,
     description:
       "A full-stack web platform where users can list products for auction, place real-time bids, and manage their auctions securely.",
     technologies: ["ReactJS", "ExpressJS", "NodeJS", "MongoDB"],
   },
+  {
+  title: "Expense Tracker",
+  image: project4,
+  description:
+    "A Java-based web application that helps users manage daily expenses and income with real-time balance updates, secure data storage, and organized transaction categorization.",
+  technologies: ["Java", "JSP", "Servlet", "Hibernate", "MySQL"],
+},
 ];
 
 export const CONTACT = {
