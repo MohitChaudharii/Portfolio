@@ -4,7 +4,7 @@
 • Backend: Java, Spring Boot, Hibernate, JDBC, REST APIs  
 • Frontend: React, JavaScript, HTML, CSS, Tailwind  
 • Databases: MySQL, PostgreSQL  
-• Tools: Git, GitHub, Docker, Maven  
+• Tools: Git, GitHub, Maven  
 
 🚀 What I do:
 • Build full-stack web applications  

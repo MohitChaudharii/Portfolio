@@ -1,8 +1,0 @@
-Black - 000000
-Orange - FCA311
-Gray - E5E5E5
-White - FFFFFF
-Dark Bluish - 14213D
-Red - C1121F
-
-

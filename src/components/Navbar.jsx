@@ -19,7 +19,7 @@ function Navbar() {
         <a
           href="http://linkedin.com/in/mohit-chaudhari-m7421"
           target="_blank"
-          rel="noopener noreferrer"
+          rel="noopener noreferrer"cd
           aria-label="LinkedIn"
         >
           <FaLinkedin />
